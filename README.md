@@ -1,9 +1,7 @@
 # friggeri-letter
-
 This is a LaTeX template for a cover letter to go with a resume created with the [friggeri-cv resume template](http://www.latextemplates.com/template/friggeri-resume-cv).
 
 ## The letter
-
 All resumes should have a cover letter (so I'm told). It would be inconsistent to stick a normal LaTeX letter infront of a friggeri resume. Also, a normal LaTeX letter is not as eye-catching.
 
 This letter class uses the same eye catching header as the Friggeri CV, and uses the Roboto font.
@@ -11,8 +9,6 @@ This letter class uses the same eye catching header as the Friggeri CV, and uses
 ![letter-printscreen][letter-printscreen]
 
 ## The resume
-
-
 I've also modified the original friggeri-cv template:
 * The original one used the *HelveticaNeue* font family, which costs money. I changed it to use the almost identical *Roboto* font family, which is free. For convinience, I've included the *Robot* fonts in this repo.
 * I adjusted the coloring of the headings in the resume, so the whole heading is coloured, not just the first 3 letters. To install the fonts, just double click on them in a file browser. Your operating system should then ask if you want to install them.
@@ -26,19 +22,16 @@ I've also modified the original friggeri-cv template:
 
 
 ## Usage
-
 * Install the fonts.
 * Have the `.cls` file(s) in the same folder as your `.tex` file(s). (There's probably a way to install them properly. I don't know what that is.)
 * Start with the example `.tex` file(s) and modify them to suit your needs.
 
 ## Acknowledgements and Copyleft
-
 This code was adapted from the original code written by [Adrien Friggeri](http://www.friggeri.net/) under the [Creative Commons 3.0 licence](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 The fonts come from [Google Fonts](https://www.google.com/fonts/specimen/Roboto) and are free under the [Apache 2.0 licence.](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 ## To do
-
 * Change spacing so that everything lines up relative to the 1/3 fold mark
 * Add option to only put contact details on the first page
 * Get rid of magic numbers in the templates, so it works with other paper sizes. (Then again, who doesn't use A4?)
