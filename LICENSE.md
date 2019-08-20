@@ -3,7 +3,7 @@
 These templates were modified by
 ```
 Christopher Blanchard
-https://github.com/stallmanifold/resume
+https://github.com/lambdaxymox/resume
 ```
 
 ## Attribution
